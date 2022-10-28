@@ -1,9 +1,9 @@
 import onetimepad
 inicial = "Hola mundo!"
-
+  
 print("Texto a encriptar = ", inicial)
 
-clave = "0l;@"
+clave = "0l;@Xfc,ii,"
 
 print("Clave = ", clave)
 
